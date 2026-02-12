@@ -11,8 +11,8 @@ Gear Central is a company dedicated to selling motorcycle and bicycle equipment.
 - Developed a measurement approach to estimate helmet size based on the calculated arc length obtained from rotational distance data.
 
 ## Images
-![Prototyp](Bilder/Prototyp.jpeg)
-![Foto des endgültigen Prototyps](Bilder/Foto_des_endgültigen_Prototyps.jpeg)
+![Prototyp](Images/Prototyp.jpeg)
+![Foto des endgültigen Prototyps](Images/Foto_des_endgültigen_Prototyps.jpeg)
 
 ## Demonstration video
 [Funktionsweise des Scanners](https://github.com/user-attachments/assets/12021643-8575-43ae-8178-6368d727e944)
