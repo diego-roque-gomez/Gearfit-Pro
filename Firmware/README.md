@@ -1,13 +1,13 @@
-# Firmware-Modul
+# Firmware module
 
-## Übersicht
-Dieser Ordner enthält die eingebettete Firmware, die auf den Mikrocontrollern ESP32 und Arduino UNO läuft.
+## Overview
+This folder contains the embedded firmware that runs on the ESP32 and Arduino UNO microcontrollers.
 
-## Zuständigkeiten für Dateien
+## File responsibilities
 
-- Arduino_GearFitPro.ino  
-  Entwickelt von Diego Roque Gómez.
+- Arduino_GearFitPro.ino
+Developed by Diego Roque Gómez.
 
-- Programa_ES32_pantalla_TFT.ino  
-  Entwickelt von Jaime Trejo Pineda.  
-  Mit Genehmigung des Autors in dieses Repository hochgeladen.
+- Programa_ES32_pantalla_TFT.ino
+Developed by Jaime Trejo Pineda.
+Uploaded to this repository with the author's permission.
