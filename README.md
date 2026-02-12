@@ -19,7 +19,7 @@ Gear Central is a company dedicated to selling motorcycle and bicycle equipment.
 
 ## System architecture and responsibilities
 
-The project was developed jointly with the following responsibilities:
+The project was developed collaboratively with clearly defined responsibilities:
 
 - **Arduino UNO main firmware (sensor and actuator control):**  
   Diego Roque Gómez
