@@ -10,7 +10,7 @@ Mein Hauptbeitrag konzentrierte sich auf die Programmierung der Sensoren und Akt
 ![Foto des endgültigen Prototyps](Bilder/Foto_des_endgültigen_Prototyps.jpeg)
 
 ## Demonstrationsvideo
-[Funktionsweise des Scanners](Video/Funktionsweise des Scanners.mp4)
+[Funktionsweise des Scanners](Bilder/Funktionsweise_des_Scanners.mp4)
 
 ## Systemarchitektur und Zuständigkeiten
 
