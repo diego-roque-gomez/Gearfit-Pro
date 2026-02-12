@@ -6,8 +6,8 @@ Gear Central ist ein Unternehmen, das sich dem Verkauf von Motorrad- und Fahrrad
 Mein Hauptbeitrag konzentrierte sich auf die Programmierung der Sensoren und Aktoren sowie auf die Konstruktion der elektrischen Verkabelung und der Energieverteilung des Systems. Aufgrund der Komplexität des Projekts schlug ich die Verwendung von ToF-Sensoren vor, die auf einem um den Kopf des Benutzers rotierenden Mechanismus montiert sind und es ermöglichen, die optimale Helmgröße anhand der gemessenen Bogenlänge zu schätzen.
 
 ## Bilder
-![Prototyp](Images/Prototyp.jpg)
-![Foto des endgültigen Prototyps](Images/Foto des endgültigen Prototyps.jpg)
+![Prototyp](Bilder/Prototyp.jpg)
+![Foto des endgültigen Prototyps](Bilder/Foto des endgültigen Prototyps.jpg)
 
 ## Demonstrationsvideo
 [Funktionsweise des Scanners](Video/Funktionsweise des Scanners.mp4)
