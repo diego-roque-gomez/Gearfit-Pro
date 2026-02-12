@@ -7,7 +7,7 @@ Mein Hauptbeitrag konzentrierte sich auf die Programmierung der Sensoren und Akt
 
 ## Bilder
 ![Prototyp](Bilder/Prototyp.jpeg)
-![Foto des endgültigen Prototyps](Bilder/FotodesendgültigenPrototyps.jpeg)
+![Foto des endgültigen Prototyps](Bilder/Foto_des_endgültigen_Prototyps.jpeg)
 
 ## Demonstrationsvideo
 [Funktionsweise des Scanners](Video/Funktionsweise des Scanners.mp4)
