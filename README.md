@@ -17,7 +17,7 @@ Gear Central is a company dedicated to selling motorcycle and bicycle equipment.
 ## Demonstration video
 [Funktionsweise des Scanners](https://github.com/user-attachments/assets/12021643-8575-43ae-8178-6368d727e944)
 
-## System architecture and responsibilities
+## System Architecture & Team Responsibilities
 
 The project was developed collaboratively with clearly defined responsibilities:
 
