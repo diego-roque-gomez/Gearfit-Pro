@@ -11,3 +11,9 @@ Mein Hauptbeitrag konzentrierte sich auf die Programmierung der Sensoren und Akt
 
 ## Demonstrationsvideo
 [Funktionsweise des Scanners](https://github.com/user-attachments/assets/1023c3a3-914e-4f33-98fa-9ca65423f2c1)
+
+## Mechanische Konstruktion
+Das mechanische CAD wurde in Onshape entwickelt von Juan Pablo Montiel López
+
+Onshape-Link: 
+https://cad.onshape.com/documents/9ce8fe986954543774366cd3/w/6d758b9753b9fb22abb1cb58/e/6ec79a0602ba0aafcc69f82f?renderMode=0&uiState=698d0bf1df4cc34ab13696e8
